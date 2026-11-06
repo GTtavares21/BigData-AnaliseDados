@@ -2,7 +2,7 @@
 ### contexto 1: (uso do operador AND)
 
 '''
-para queeu possa dirigir, eu preciso ter:
+para que eu possa dirigir, eu preciso ter:
 -documento (CNH) em posse;
 - maioridade (+18); 
 - não estar acloolizado.
@@ -27,7 +27,7 @@ Para me deslocar até o senac nova iguaçu, preciso pegar:
 - metro
 '''
 
-tren = input("Voce veio de trem? ")
+trem = input("Voce veio de trem? ")
 input("Voce veio de onibus? ")
 input("Voce veio de metro? ")
 
