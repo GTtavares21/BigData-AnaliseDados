@@ -1,5 +1,5 @@
 
-### contexto 1:
+### contexto 1: (uso do operador AND)
 
 '''
 para queeu possa dirigir, eu preciso ter:
@@ -19,3 +19,19 @@ elif pergunta1 == "sim" and pergunta3 == "sim":
 
 
  ###Contexto2:    
+
+'''
+Para me deslocar até o senac nova iguaçu, preciso pegar:
+- trem
+- onibus
+- metro
+'''
+
+tren = input("Voce veio de trem? ")
+input("Voce veio de onibus? ")
+input("Voce veio de metro? ")
+
+if trem == "sim" or onibus == "sim" or metro == "sim":
+    print("Bem-vindo(a) ao senac!")
+else:
+    print("tarifa dinamica")  
