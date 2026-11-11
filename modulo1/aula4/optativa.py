@@ -9,7 +9,7 @@ media = (nota1 + nota2 + notaO)
 print("Notas:", nota1, nota2, notaO)
 
 
-if  media > 6:
+if  media >= 6:
     print("Status: Aprovado!")
 elif  3 <= media:
     print("Status: Reprovado.")
