@@ -4,7 +4,7 @@ nota2 = float(input("digite a segunda nota: "))
 notaO = float(input("digite a nota optativa: "))
 
 
-media = (nota1 + nota2 + notaO)
+media = (nota1 + nota2 + notaO) / 3
 
 print("Notas:", nota1, nota2, notaO)
 

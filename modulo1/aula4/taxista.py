@@ -3,7 +3,7 @@ preco_combustivel = 6.15
 
 odometro_inicio = float(input("Digite a marcação do odometro no inicio do dia (km): "))
 odometro_fim = float(input("Digite a marcação do odometro no fim do dia (km): "))
-litros_gasto = float(input("Digite o númrto de litros de combustivel gasto: "))
+litros_gasto = float(input("Digite o número de litros de combustivel gasto: "))
 valor_recebido = float(input("Digite o valor total recebido dos passageiros (R$): "))
 
 km_rodados = odometro_fim - odometro_inicio
