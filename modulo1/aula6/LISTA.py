@@ -76,3 +76,7 @@ indicadores_oscar = ["Sim", "Sim"]
 
 titanic_info = ["Titanic", 1997, "Drama/Romance", "Sim"]
 
+filmes["E.T."] = 1982
+filmes["E.T."] = 1982
+filmes["E.T."] = None
+print(filmes)

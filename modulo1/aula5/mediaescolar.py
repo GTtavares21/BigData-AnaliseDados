@@ -14,7 +14,7 @@ for aluno in range(1,11):
 
     if notaO != -1:
         if nota1 < nota2:
-            media = (nota1 + notaO) / 2
+            media = (nota2 + notaO) / 2
         else:
             media = (nota1 + notaO) / 2
     else:
