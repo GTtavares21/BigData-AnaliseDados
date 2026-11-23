@@ -10,7 +10,7 @@ for aluno in range(1,11):
     notaO = float(input("digite a nota optativa: "))
 
 
-    media = (nota1 + nota2 + notaO)
+    media = (nota1 + nota2) / 2
 
     if notaO != -1:
         if nota1 < nota2:
